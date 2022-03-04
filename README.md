@@ -27,6 +27,8 @@
   ## Deployment
   
   The application can be found [Here](https://budget-tracker-7777.herokuapp.com/).
+  Screenshot: ![Screen-3-4-2022_34256_PM](https://user-images.githubusercontent.com/91296976/156846314-f1bbb321-f11a-4053-8e56-2bf965990a4b.png)
+
  
 
   <a name='license'></a>
